@@ -10,18 +10,18 @@
 
 ## Problem Statement
 
-Access to a healthy diet is not just a matter of personal choice but a fundamental human right. Yet, the stark reality is that millions of people around the world are unable to afford even the minimum cost of nutritious food. As global food systems grapple with price volatility, inflationary pressures, supply chain disruptions, and economic instability, the urgency of understanding why healthy diets are becoming more expensive and who is most affected has never been more pressing.
+Access to a healthy diet is a fundamental human right, yet millions worldwide cannot afford nutritious food. With factors like price volatility, inflation, and supply chain disruptions at play, understanding why healthy diets are becoming costlier and who is most affected is increasingly urgent.
 
-Despite growing awareness of the issue, the underlying drivers of healthy diet costs are complex and not always transparent. Prices vary significantly between regions, and stakeholders often misunderstand the relationship between food costs and affordability. A country may have relatively low food prices but still experience high levels of unaffordability due to low household incomes. Conversely, some countries maintain high diet costs but low unaffordability because consumers have greater purchasing power. Without clear, data-driven insights, policymakers, NGOs, and researchers struggle to identify where interventions are most urgently needed.
+The drivers behind the cost of healthy diets are complex and often unclear. Price variations between regions can lead to high levels of unaffordability despite low food prices, or vice versa, depending on household incomes and purchasing power. This complexity complicates policymakers, NGOs, and researchers’ efforts to identify where interventions are most needed.
 
-This project seeks to address this challenge by analysing global data on the Cost and Affordability of a Healthy Diet from 2017 to 2023. The objective is to uncover the key factors driving variations in diet costs, understand how affordability differs across countries and regions, and identify which food groups contribute most to overall costs. Through a combination of exploratory data analysis, visualisation, and hypothesis testing, this project aims to answer critical questions such as:
+This project will analyse global data on the cost and affordability of a healthy diet from 2017 to 2023 to uncover key factors influencing diet costs, explore affordability across different regions, and identify food groups that contribute most to overall costs. Key questions include:
 
-- How and why is the cost of a healthy diet changing over time?
-- Which countries face the most significant financial barriers to nutrition?
-- What food groups are most responsible for driving up the cost of healthy eating?
+- How is the cost of a healthy diet changing over time?
+- Which countries face the most significant barriers to nutrition?
+- What food groups drive up the cost of healthy eating?
 - Why do some regions experience high unaffordability despite moderate diet costs?
 
-By transforming this dataset into an interactive data dashboard, the project will not only provide a clear, evidence-based understanding of the economics of healthy diets but also pave the way for transformative change. The insights generated will empower stakeholders, from policymakers to public health organisations, to better target interventions, design effective nutrition strategies, and ultimately support global efforts to ensure that nutritious food is accessible and affordable for all.
+By creating an interactive data dashboard, the project will provide a clear understanding of the economics of healthy diets, enabling stakeholders to devise more targeted interventions and strategies to ensure nutritious food is accessible and affordable for everyone.
 
 ## Project Objectives
 
