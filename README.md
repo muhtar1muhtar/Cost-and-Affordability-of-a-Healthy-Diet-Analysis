@@ -25,11 +25,48 @@ By creating an interactive data dashboard, the project will provide a clear unde
 
 ## Project Objectives
 
-- List the specific objectives you aim to achieve with this project.
+The objective of this project is to analyse the global Cost and Affordability of a Healthy Diet and transform complex nutritional and economic data into clear, actionable insights. Rising food prices, income inequality, and weakening purchasing power are preventing millions from accessing nutritious diets. Understanding why healthy diets are expensive and what drives unaffordability across regions is not straightforward.
+
+Using Python, Jupyter Notebooks, and Power BI, the project explores changes in healthy diet costs from 2017–2023, key food group cost drivers, and affordability differences by country and region. AI tools support clearer insights.
+
+Ultimately, the goal of the project is to provide a user-friendly data app that enables policymakers, researchers, NGOs, and the public to:
+
+- Explore changes in the cost of healthy diets globally.
+- Identify countries most affected by high unaffordability.
+- Understand the key cost drivers of nutritious diets.
+- Support more informed decisions in food policy, nutrition planning, and social protection programs.
+
+By presenting insights through interactive visuals and narrative explanations, the project supports efforts to achieve food security, nutrition equity, and affordable healthy diets for all.
 
 ## Business Case
 
-- Explain the business case for this project, including potential benefits and impact.
+Reliable tools to track diet affordability are vital for governments, food security groups, and public health. As diet-related diseases rise and economic pressures grow, stakeholders must identify at-risk groups and ensure access to affordable, nutritious food.
+
+Current decision-making is hindered by:
+
+- Fragmented or incomplete data
+- Lack of visibility into food group–level cost drivers
+- Limited ability to compare countries over time
+- Few tools to meaningfully visualise affordability trends
+
+This project solves these issues with a centralized, interactive dashboard that lets stakeholders explore:
+
+**1. Rising Cost Pressures**
+
+The dashboard tracks healthy diet costs over time, aiding resource allocation and targeted interventions.
+
+**2. Cost Drivers and Food System Weaknesses**
+
+Breaking down costs by food group reveals key drivers. These insights help with procurement, price monitoring, investment, and nutrition policy.
+
+**3. Affordability and Vulnerable Populations**
+
+Identifying unaffordable diets helps shape safety nets, subsidies, and nutrition programs.
+The dashboard highlights regions with the greatest challenges, directing support where it’s most needed.
+
+**4. Evidence-Based Policy and Advocacy**
+
+NGOs and public health groups can use dashboard insights for advocacy, public awareness, and evidence-based policy to improve access to nutritious food.
 
 ## Business Requirements
 
