@@ -10,7 +10,18 @@
 
 ## Problem Statement
 
-- Describe the problem you are trying to solve with this project.
+Access to a healthy diet is not just a matter of personal choice but a fundamental human right. Yet, the stark reality is that millions of people around the world are unable to afford even the minimum cost of nutritious food. As global food systems grapple with price volatility, inflationary pressures, supply chain disruptions, and economic instability, the urgency of understanding why healthy diets are becoming more expensive and who is most affected has never been more pressing.
+
+Despite growing awareness of the issue, the underlying drivers of healthy diet costs are complex and not always transparent. Prices vary significantly between regions, and stakeholders often misunderstand the relationship between food costs and affordability. A country may have relatively low food prices but still experience high levels of unaffordability due to low household incomes. Conversely, some countries maintain high diet costs but low unaffordability because consumers have greater purchasing power. Without clear, data-driven insights, policymakers, NGOs, and researchers struggle to identify where interventions are most urgently needed.
+
+This project seeks to address this challenge by analysing global data on the Cost and Affordability of a Healthy Diet from 2017 to 2023. The objective is to uncover the key factors driving variations in diet costs, understand how affordability differs across countries and regions, and identify which food groups contribute most to overall costs. Through a combination of exploratory data analysis, visualisation, and hypothesis testing, this project aims to answer critical questions such as:
+
+- How and why is the cost of a healthy diet changing over time?
+- Which countries face the most significant financial barriers to nutrition?
+- What food groups are most responsible for driving up the cost of healthy eating?
+- Why do some regions experience high unaffordability despite moderate diet costs?
+
+By transforming this dataset into an interactive data dashboard, the project will not only provide a clear, evidence-based understanding of the economics of healthy diets but also pave the way for transformative change. The insights generated will empower stakeholders, from policymakers to public health organisations, to better target interventions, design effective nutrition strategies, and ultimately support global efforts to ensure that nutritious food is accessible and affordable for all.
 
 ## Project Objectives
 
